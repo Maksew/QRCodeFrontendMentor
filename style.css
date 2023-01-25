@@ -1,0 +1,27 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Outfit', sans-serif;
+    height: 100vh;
+    overflow: hidden;
+}
+
+img {
+    width: 100%;
+    border-radius: 5%;
+}
+
+.backOfTheImage {
+    background-color : white;
+    border-radius: 5%;
+    text-align: center;
+    padding: 20px;
+    width: 259px;
+}
+
+p {
+    color: hsl(212, 45%, 89%);
+}
